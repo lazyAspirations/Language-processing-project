@@ -1,0 +1,50 @@
+An international ad hoc Working Group of experts in cancer research met at the International Agency for Research on Cancer IARC in January 1979 to evaluate the data on human and experimental animal carcinogenicity for 54 chemicals groups of chemicals and industrial processes
+Monographs for these chemicals were published in Vols
+1 to 20 of the IARC Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Humans
+Based on evidence from human studies 18 of the 54 chemicals or industrial processes are human carcinogens
+A further 18 chemicals are probably carcinogenic for humans although the data were considered not adequate to establish a causal association
+To reflect differing degrees of evidence of carcinogenicity within this group the chemicals were further subdivided with 6 chemicals exhibiting a high degree of evidence and 12 chemicals exhibiting a lower degree
+Data on the remaining 18 chemicals were considered insufficient to allow any evaluation of carcinogenicity
+The report summarizes the background purpose and overall conclusions of the Working Group
+The evidence supporting the evaluations is given in the Appendix
+We examined the effects of digitalis therapy on postinfarction mortality throughout a 24 month to 48 month follow up in 867 patients who survived an acute myocardial infarction
+During follow up 145 patients died 16.7 mortality
+At the time of hospital discharge 31 of the patients were taking digitalis
+The digitalis treated patients were older had more medical cardiac risk factors and had a higher mortality rate throughout the follow up than the nondigitalis treated patients
+Statistical techniques were used to adjust for clinical imbalances between the digitalis treated patients and nondigitalis treated patients
+The survival analysis n 728 patients utilized the Cox regression model and the digitalis associated mortality risk was identified only after all significant covariates were allowed so that mortality could be predicted as accurately as possible
+Digitalis therapy was associated with a significantly increased postinfarction mortality risk after adjustment for the predictor covariates relative risk 2.3 95 confidence interval 1.4 3.7 p less than 0.001
+The findings from this large multicenter study suggest that it would be prudent to exercise caution in the use of digitalis in postinfarction patients
+Congenital lipoid adrenal hyperplasia results in severe impairment of steroid biosynthesis in the adrenal glands and gonads that is manifested both in utero and postnatally
+We recently found mutations in the gene for the steroidogenic acute regulatory protein in four patients with this syndrome but it was not clear whether all patients have such mutations or why there is substantial clinical variation in these patients
+We directly sequenced the gene for steroidogenic acute regulatory protein in 15 patients with congenital lipoid adrenal hyperplasia from 10 countries
+Identified mutations were confirmed and recreated in expression vectors transfected into cultured cells and assayed for the presence and activity of steroidogenic acute regulatory protein
+Fifteen different mutations in the gene for steroidogenic acute regulatory protein were found in 14 patients the mutation Gln258Stop was found in 80 percent of affected alleles from Japanese and Korean patients and the mutation Arg182Leu was found in 78 percent of affected alleles from Palestinian patients
+We developed diagnostic tests for these and eight other mutations
+Thirteen of the 15 mutations were in exons 5 6 or 7 and all rendered the steroidogenic acute regulatory protein inactive in functional assays
+Some mutants with amino acid replacements were capable of normal mitochondrial processing indicating that the activity of steroidogenic acute regulatory protein is not associated with its translocation into mitochondria
+Steroidogenic cells lacking the protein retained low levels of steroidogenesis
+This explains the secretion of some steroid hormones by the ovaries after puberty before affected cells accumulate large amounts of cholesterol esters
+The congenital lipoid adrenal hyperplasia phenotype is the result of two separate events an initial genetic loss of steroidogenesis that is dependent on steroidogenic acute regulatory protein and a subsequent loss of steroidogenesis that is independent of the protein due to cellular damage from accumulated cholesterol esters
+Fanconi anaemia FA is an autosomal recessive disorder associated with progressive bone marrow failure a variety of congenital abnormalities and predisposition to acute myeloid leukaemia
+Cells from FA patients show increased sensitivity to bifunctional DNA crosslinking agents such as diepoxybutane and mitomycin C with characteristic chromosome breakage
+FA is genetically heterogeneous at least five different complementation groups FA A to FA E having been described
+The gene for group C FAC was cloned by functional complementation and mapped to chromosome 9q22.3 refs 3 5 but the genes for the other complementation groups have not yet been identified
+The group A gene FAA has recently been mapped to chromosome 16q24.3 by linkage analysis and accounts for 60 65 of FA cases
+We narrowed the candidate region by linkage and allelic association analysis and have isolated a gene that is mutated in FA A patients
+The gene encodes a protein of 1 455 amino acids that has no significant homology to any other known proteins and may therefore represent a new class of genes associated with the prevention or repair of DNA damage
+There is concern about possible association between PUVA treatment and an increased risk of noncutaneous cancer
+An alteration in the risk of cancer among persons with psoriasis has also been postulated
+To test this hypothesis for nearly two decades we have prospectively followed 1380 patients who first began PUVA treatment for psoriasis in 1975 1976
+We compare the risk of noncutaneous cancer in our cohort with that expected based on general population incidence rates
+The overall risk of noncutaneous cancer was nearly identical to that expected in general population
+For three separate sites we noted significant increases thyroid cancer RR 3.57 95 CI 1.16 8.34 breast cancer RR 1.81 95 CI 1.19 2.64 and central nervous system neoplasms RR 2.80 95 CI 1.13 5.57
+Since 1987 however the risk of central nervous system neoplasms has not been elevated RR 0.00 95 CI 0.00 3.35 and the relative risk of breast cancer was lower than in the prior decade and not statistically significant
+There was no association between higher levels of exposure to PUVA and the risk of any of these cancers
+We did not detect any significant increase in the risk of lymphoma or leukemia
+Our study does not support the hypothesis that long term PUVA treatment increases the risk of noncutaneous cancer
+Genetic linkage studies place a gene causing early onset familial Alzheimer s disease FAD on chromosome 14q24.3 refs 1 4
+Five mutations within the S182 Presenilin 1 PS 1 gene which maps to this region have recently been reported in several early onset FAD kindreds
+We have localized the PS 1 gene to a 75 kb region and present the structure of this gene evidence for alternative splicing and describe six novel mutations in early onset FAD pedigrees all of which alter residues conserved in the STM2 Presenilin 2 PS 2 gene
+The European Society for Paediatric Gasteroenterology Hepatology and Nutrition ESPGHAN issued two sets of recommendations for the treatment of infants with acute gastroenteritis 1992 1997
+The purpose of this multicentre study performed in 29 European countries was to determine how closely current treatment compares with the ESPGHAN recommendations
